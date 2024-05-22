@@ -1047,7 +1047,7 @@ color: #b08c3e;
 .welcome-image-wrapper .img {
     width: 250px;
     border: 12px solid rgba(255,255,255,0.2);
-    border-radius: 100%;
+    border-radius: 10%;
     margin-bottom: 30px;
         overflow: hidden;
 }
